@@ -22,10 +22,10 @@ The dataset used for this project contains information such as:
 * Total Stops: Number of Stops: Whether the flight is direct or has layovers.
 
 ## Technologies used:
-**Python:** Core language used for data analysis and model building.
-**Pandas & NumPy:** For data manipulation and preprocessing.
-**Scikit-learn:** For implementing various machine learning models.
-**Matplotlib & Seaborn:** For data visualization and analysis.
+* **Python:** Core language used for data analysis and model building.
+* **Pandas & NumPy:** For data manipulation and preprocessing.
+* **Scikit-learn:** For implementing various machine learning models.
+* **Matplotlib & Seaborn:** For data visualization and analysis.
 
 
 ## Model Evaluation Metrics:
