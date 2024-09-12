@@ -12,7 +12,7 @@ Airline ticket prices fluctuate based on several variables, including travel sea
 * Build and evaluate multiple machine learning models to predict flight prices.
 * Compare model performance to select the best approach for price prediction.
 
-## Data Sources:
+## Data Set:
 The dataset used for this project contains information such as:
 * Airline: Name of the airline operating the flight.
 * Date_of_Jurney: The travel date.
