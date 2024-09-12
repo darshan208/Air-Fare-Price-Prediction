@@ -25,7 +25,7 @@ The dataset used for this project contains information such as:
 **Python:** Core language used for data analysis and model building.
 **Pandas & NumPy:** For data manipulation and preprocessing.
 **Scikit-learn:** For implementing various machine learning models.
-**Matplotlib & Seaborn: ** For data visualization and analysis.
+**Matplotlib & Seaborn:** For data visualization and analysis.
 
 
 ## Model Evaluation Metrics:
